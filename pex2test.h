@@ -1,9 +1,9 @@
 /** pex2test.h
  * =============================================================
- * Name: Your Name
- * Section:  Your Section
- * Project:  FILL IN
- * Purpose:  FILL IN
+ * Name: Anthony Standish
+ * Section:  T6/7
+ * Project:  PEX 2
+ * Purpose:  Blackjack
  * ============================================================= */
 
 void runAllTests();
