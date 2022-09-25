@@ -12,7 +12,13 @@
 #include <string.h>
 #include <stdlib.h>
 #include <ctype.h>
+
+#ifndef PEX2FUNCTS_H
+#define PEX2FUNCTS_H
+
 #include "pex2functs.h"
+
+#endif // PEX2FUNCTS_H
 
 #define MAX_LENGTH 20 // The max length of all string variables
 #define MAX_RAND 13 // The maximum value for the random number generator

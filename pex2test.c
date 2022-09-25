@@ -6,7 +6,11 @@
  * Purpose:  Blackjack
  * ============================================================= */
 
+#ifndef PEX2FUNCTS_H
+#define PEX2FUNCTS_H
 #include "pex2functs.h"
+#endif // PEX2FUNCTS_H
+
 #include <stdio.h>
 #include <assert.h>
 #include <math.h>

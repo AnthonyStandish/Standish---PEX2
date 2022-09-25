@@ -8,10 +8,19 @@
  * ============================================================= */
 
 #include <stdio.h>
-#include "pex2functs.h"
-#include "pex2test.h"
 #include <time.h>
 #include <stdlib.h>
+
+#ifndef PEX2FUNCTS_H
+#define PEX2FUNCTS_H
+#ifndef PEX2TEST_H
+#define PEX2TEST_H
+
+#include "pex2functs.h"
+#include "pex2test.h"
+
+#endif // PEX2FUNCTS_H
+#endif // PEX2TEST_H
 
 #define MAX_LENGTH 50
 
